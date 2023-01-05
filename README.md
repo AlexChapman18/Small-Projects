@@ -22,10 +22,10 @@ on youtube. I believe the video has since been deleted/privated
 This was an online marketing event for the game "Call of Duty: Black Ops Cold War"
 This event included many puzzel that needed to be solved in order to get to the next step
 During this event i made several python tools to help solve these puzzels, including:
- - spelling mistake solver
- - anagram solver
- - word finder
- - "you may know some letters but not the word length or position of said letters"
+ spelling mistake solver
+ anagram solver
+ word finder
+ "you may know some letters but not the word length or position of said letters"
 and a couple more
 
 
