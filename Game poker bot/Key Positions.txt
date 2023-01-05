@@ -1,0 +1,4 @@
+position coords
+Place your Bet = 115,60, 150, 35
+The Dealer has X. = 115,60, 185, 35
+You have x. = 115,60, 150, 35

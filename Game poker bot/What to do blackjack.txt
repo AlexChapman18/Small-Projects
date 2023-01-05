@@ -1,0 +1,14 @@
+BET 10
+Place Bet A
+Hold LT (30 seconds) A = hit X = stand Y = Double Down RB = Split
+Timer appears
+RT
+Let go
+LT
+No cards
+
+Timer appears, hold RT
+Then hold LT  until cards dissapear
+
+BET 10 at bottom right = Start condition
+Hold LT and no cards = end condition
